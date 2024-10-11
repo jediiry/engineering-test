@@ -45,6 +45,8 @@ With all tasks - **please add comments, utilise tests and submit clear instructi
 
 Task 1 & 2 notes along with anything else you want to say can be placed in `NOTES.md`.
 
+Please note: During the technical interview, you will be asked to explain sections of this test, and may be asked to share your screen to demonstrate your code.
+
 ## Task 1 (15 minutes)
 
  - Review the `eurocamp_api` database and make notes on the current structure and state of the database. How would you improve it using relational database best practices? We're mainly interested in how you would improve the database theoretically
@@ -63,12 +65,7 @@ However some of the endpoints do fail sometimes and return exceptions or 500 err
 
 <b>Please note we would appreciate Typescript being used.</b>
 
-### **[.Net Only]**
-
-Create a .NET core client service that consumes the api (as seen on http://localhost:3001/api) and actions the api endpoints. This service should handle api failures or bad responses. 
-
-
-### **[Node Only]**
+### **[Backend Only]**
 
 Create a Node client service that consumes the api (as seen on http://localhost:3001/api) and actions the api endpoints. This service should handle api failures or bad responses. 
 
